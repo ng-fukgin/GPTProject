@@ -39,3 +39,4 @@ dependencies:
   - python-libarchive-c
   - pip:
       - jupyterlite ==0.1.0b18
+      - openai
