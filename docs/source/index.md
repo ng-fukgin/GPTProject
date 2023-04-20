@@ -22,9 +22,13 @@ ChatGPT是美国人工智能研究实验室OpenAI新推出的一种人工智能�
 + 3.复现网上类ChatGPT的开源项目，来实现ChatGPT的各种功能。
 
 
+
 ```{toctree}
 :maxdepth: 3
 openai/index
 ChatGPT-Next-Web/index
-
+MiniGPT-4/index
+DeepSpeed/index
+AutoGPT/index
 ```
+
