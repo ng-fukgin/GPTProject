@@ -20,7 +20,8 @@ CODE （可选）访问密码，可选，可以使用逗号隔开多个密码。
 ```
 
 ## 容器部署 (Docker)
-    注意：docker 版本在大多数时间都会落后最新的版本 1 到 2 天，所以部署后会持续出现“存在更新”的提示，属于正常现象。
+```注意：docker 版本在大多数时间都会落后最新的版本 1 到 2 天，所以部署后会持续出现“存在更新”的提示，属于正常现象。```
+
 ```
 docker pull yidadaa/chatgpt-next-web
 
@@ -41,5 +42,6 @@ docker run -d -p 3000:3000 \
 
 ## 本地部署
 在控制台运行下方命令：
-
-``bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)``
+``
+bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+``
