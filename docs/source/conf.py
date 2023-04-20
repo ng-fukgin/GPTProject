@@ -4,7 +4,7 @@
 import os
 import sys
 from pathlib import Path
-os.environ["OPENAI_API_KEY"]='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'
+os.environ["OPENAI_API_KEY"]='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'
 from packaging.version import Version
 
 HERE = Path(__file__).parent
@@ -78,9 +78,9 @@ release = _release['__version__']
 # templates_path = ['_templates']
 
 master_doc = 'index'
-project = 'Jupyter Widgets'
-copyright = '2017-2023 Project Jupyter'
-author = 'Jupyter Team'
+project = 'GPTProject'
+copyright = '2017-2023 GPTProject'
+author = 'ng-fukgin'
 
 language = "en"
 exclude_patterns = [
