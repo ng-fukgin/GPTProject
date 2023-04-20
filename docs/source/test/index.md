@@ -1,7 +1,7 @@
 # How-to Guides
 
 ```{toctree}
-:caption: Using Widgets
+:caption: GPTProject
 :maxdepth: 1
 ../examples
 ../examples/test

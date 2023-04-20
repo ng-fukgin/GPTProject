@@ -1,7 +1,7 @@
 # Copyright (c) Jupyter Development Team.
 # Distributed under the terms of the Modified BSD License.
 
-"""Interact with functions using widgets."""
+"""Interact with functions GPTProject."""
 
 from collections.abc import Iterable, Mapping
 from inspect import signature, Parameter
