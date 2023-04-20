@@ -7,4 +7,6 @@
 :maxdepth: 1
 ../examples
 ../examples/openai-模型
+../examples/openai-编辑
+../examples/openai-图片
 ```
