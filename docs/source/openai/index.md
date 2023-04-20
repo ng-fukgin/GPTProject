@@ -10,5 +10,5 @@
 ../examples/openai-聊天
 ../examples/openai-编辑
 ../examples/openai-图片
-../examples/openai-Embenddings
+../examples/openai-Embeddings
 ```
