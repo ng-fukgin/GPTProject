@@ -5,6 +5,6 @@
 ```{toctree}
 :caption: Using Widgets
 :maxdepth: 1
-./
-./模型
+../examples
+../examples/openai-模型
 ```
