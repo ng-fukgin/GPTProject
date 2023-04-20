@@ -4,7 +4,7 @@
 import os
 import sys
 from pathlib import Path
-os.environ["OPENAI_API_KEY"]='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'
+
 from packaging.version import Version
 
 HERE = Path(__file__).parent
