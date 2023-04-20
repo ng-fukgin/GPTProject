@@ -16,9 +16,10 @@ ChatGPT是美国人工智能研究实验室OpenAI新推出的一种人工智能�
 因为openai对中国香港是半封锁状态，因此我的各种代码是在香港ip 环境下运行的，如果你在大陆，所有涉及到openai 的api，你都需要使用代理，或者使用香港的服务器。
 
 我们的项目包括以下几个部分：
-1.调用openai的api，使用GPT 模型来实现ChatGPT的各种功能。
-2.自己训练GPT模型，来实现ChatGPT的各种功能。
-3.复现网上类ChatGPT的开源项目，来实现ChatGPT的各种功能。
+
++ 1.调用openai的api，使用GPT 模型来实现ChatGPT的各种功能。
++ 2.自己训练GPT模型，来实现ChatGPT的各种功能。
++ 3.复现网上类ChatGPT的开源项目，来实现ChatGPT的各种功能。
 
 
 ```{toctree}
