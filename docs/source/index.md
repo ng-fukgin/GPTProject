@@ -23,7 +23,8 @@ ChatGPT是美国人工智能研究实验室OpenAI新推出的一种人工智能�
 
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 openai/index
-test/index
+ChatGPT-Next-Web/index
+
 ```
